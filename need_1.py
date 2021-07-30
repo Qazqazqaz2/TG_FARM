@@ -73,7 +73,7 @@ while s != 1:
             await client.send_message('Valley of Money', "📱 Мой кабинет")
             time.sleep(20)
             all_mess = client.get_messages(ms, limit=1)
-            await client.send_message('Valley of Money', "+79836104738")
+            await client.send_message('Valley of Money', "+7983*******")
             time.sleep(12)
             await client.send_message('Valley of Money', "16")
         return
@@ -110,7 +110,7 @@ while s != 1:
                 ms = dlg
                 print(dlg)
         time.sleep(20)
-        await client.send_message('FlibastaBot - 💵Заработай 🎯Раскрути Канал или Бота', "+79836104738")
+        await client.send_message('FlibastaBot - 💵Заработай 🎯Раскрути Канал или Бота', "+7983*******")
         time.sleep(12)
         await client.send_message('FlibastaBot - 💵Заработай 🎯Раскрути Канал или Бота', "20")
         return
@@ -152,7 +152,7 @@ while s != 1:
                 ms = dlg
                 print(dlg)
         time.sleep(20)
-        await client.send_message('FlibastaBot - 🚀Раскрутка и 💰Заработок', "+79836104738")
+        await client.send_message('FlibastaBot - 🚀Раскрутка и 💰Заработок', "+7983*******")
         time.sleep(12)
         await client.send_message('FlibastaBot - 🚀Раскрутка и 💰Заработок', "15")
         return
